@@ -8,3 +8,4 @@ app.listen(8080, function(){
 app.get('/book', function(req,res){
     res.send("도서 페이지입니다");
 })
+// add.server
